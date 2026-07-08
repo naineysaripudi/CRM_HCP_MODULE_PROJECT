@@ -718,9 +718,9 @@ Ready for:
 
 ## 📄 License
 
-MIT
+SRM UNIVERSITY AP
 
-## 👤 Author
+## 👤 Nainey Saripudi
 
 Built with ❤️ for healthcare sales tech
 
